@@ -344,6 +344,10 @@ thead {
 .section-padding {
     padding: 110px 0;
 }
+.section-padding-we{
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
 
 
 /*margin top*/
@@ -454,6 +458,10 @@ thead {
 
 
 /*padding-bottom*/
+
+.padding-bottom-30- {
+    padding-bottom: -20px;
+}
 
 .padding-bottom-20 {
     padding-bottom: 20px;
@@ -2277,7 +2285,11 @@ KEY FRAME
 #preloader .progress .indeterminate{
     background:#03a9f4;
 }
-
-
+.logo-solum-header{
+    width: 150px;
+}
+.logo-solum{
+    width: 200px;
+}
 
 
